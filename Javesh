@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>javesshhh</title>
+</head>
+<body>
+<h1> Javesh Lodha </h1> 
+<p><strong>Email: </strong>
+    iec2021063@iiita.ac.in |
+    <strong>Phone:</strong>
+    7296903028 |
+    <strong>My github url:</strong>
+    <a href="https://github.com/javesshhh">javesshhh</a>
+
+    <hr>
+    </p>
+    <p>
+        <h2>Education</h2>
+        <ul>
+            <li>CBSE Class 10th 92% from St. Anselms School</li>
+            <li>CBSE Class 12th 92.6% from St. Anselms School</li>
+            <li>BTech in electronics and communication at IIIT allahabad</li>
+        </ul>
+    </p>
+    <hr>
+    <p>
+        <h2>Skills</h2>
+<table>
+<tr>
+    <td>Language</td>
+    <td>Skill</td>
+</tr>
+<tr>
+    <td>HTML</td>
+    <td>&starf;&starf;&starf;&star;&star;</td>
+</tr>
+<tr>
+    <td>CSS</td>
+    <td>&starf;&starf;&starf;&star;&star;</td>
+</tr>
+<tr>
+    <td>Javascript</td>
+    <td>&starf;&starf;&starf;&star;&star;</td>
+</tr> 
+</table>
+</p>
+    <hr>
+<form>
+    <h2>Contact me</h2>
+    <label for>Your name:</label>
+    <input type="text" placeholder="Enter your name"> <br>
+    <label for>Your email id:</label>
+    <input type="text" placeholder="Enter your email id"><br>
+    <label for>Your Message:</label>
+    <textarea placeholder="Enter your message"></textarea>
+</form>
+</body>
+</html>
+</body>
+</html>
